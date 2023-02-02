@@ -1,0 +1,30 @@
+body {
+    background-color: #d5e1ef;
+}
+
+div {
+    background-color: white; 
+    margin:auto; width: 288px; 
+    padding: 16px 16px 40px; 
+    border-radius: 20px;
+}
+
+img {
+    max-width: 100%; 
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 22px; 
+    text-align: center; 
+    font-family: 'Outfit', sans-serif; 
+    color: #1F314F;
+}
+
+p {
+    text-align: center; 
+    font-size: 15px; 
+    font-family: 'Outfit', sans-serif; 
+    margin: auto 16px; 
+    color: grey;
+}
